@@ -1,0 +1,60 @@
+body{
+	background-color:#8aa7b8;
+	margin:4%;
+}
+h3{
+	font-family:Helvetica, sans-serif;
+}
+p{
+	font-family:Courier New;
+}
+a{
+	text-decoration:none;
+	color:sky blue;
+}
+a:hover{
+	color:coral;
+}
+a:visited{
+	color:sky blue;
+}
+
+.header{
+	background-color:#444444;
+	color:#ffffff;
+	border: 4px black solid;
+	padding:10px;
+	margin:20px 0;
+}
+.container{
+	width:80%;
+	margin:auto;
+}
+.welcome{
+	text-align:center;
+}
+.external h3{
+	text-align:center;
+}
+.header h1{
+	font: bold 40px Bookman Old Style, Times New Roman, serif;
+	line-height:0.5em;
+	letter-spacing: 0.1em;
+}
+.header h2{
+	font: normal 24px Garamond, Georgia, serif;
+	line-height:0.5em;
+}
+.waifulist{
+	border:1px #cccccc solid;
+	padding:8px;
+	border-radius:15px;
+	line-height:1.6;
+}
+.waifulist h3{
+	text-align:center;
+}
+.waifulist ul{
+	padding:2;
+	list-style:none;
+}
